@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.indentSize": "tabSize",
+  "editor.tabSize": 2,
+  "editor.minimap.autohide": true,
+  "editor.minimap.renderCharacters": false,
+  "editor.guides.indentation": false,
+  "workbench.colorTheme": "GitHub Dark Default"
+}
